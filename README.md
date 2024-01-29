@@ -1,3 +1,1 @@
 # Random-Forest-Classifier-
-
-Amazing intro of this project goes here ...
